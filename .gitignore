@@ -1,1 +1,15 @@
+*__pycache__/
+*.pyo
+*.pyd
+*.pyc
+
+# ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# ignore env files and virtual environments
+.env
+.venv
+env/
 venv/
+# ignore Pytorch models 
+*.pt
+*.pth
