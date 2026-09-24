@@ -1,4 +1,4 @@
-# Perception-to-Grasp 
+# Safe RGB-D Perception Pipeline for Robotic Grasping
 
 ![Demo GIF](assets/videos/demo.gif)
 
