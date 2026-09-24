@@ -1,0 +1,81 @@
+condition,trial,pipeline,outcome,xy_error_cm,note
+mixed_10%,0,raw,no_motion,nan,non-finite grasp point
+mixed_10%,0,safe,success,0.20613528838976056,cube_z=0.286
+mixed_10%,1,raw,no_motion,nan,non-finite grasp point
+mixed_10%,1,safe,success,0.07743443470248694,cube_z=0.286
+mixed_10%,2,raw,wrong_motion,83.09570154101728,cube_z=-0.000
+mixed_10%,2,safe,wrong_motion,83.09860453260704,cube_z=-0.000
+mixed_10%,3,raw,no_motion,nan,non-finite grasp point
+mixed_10%,3,safe,success,0.6343984916278387,cube_z=0.286
+mixed_10%,4,raw,no_motion,nan,non-finite grasp point
+mixed_10%,4,safe,success,0.39591304841903396,cube_z=0.286
+mixed_10%,5,raw,no_motion,nan,non-finite grasp point
+mixed_10%,5,safe,success,0.31863860595580584,cube_z=0.286
+mixed_10%,6,raw,no_motion,nan,non-finite grasp point
+mixed_10%,6,safe,success,0.44976455313046354,cube_z=0.287
+mixed_10%,7,raw,no_motion,nan,non-finite grasp point
+mixed_10%,7,safe,success,0.29331881810330956,cube_z=0.286
+mixed_10%,8,raw,no_motion,nan,non-finite grasp point
+mixed_10%,8,safe,wrong_motion,80.58225349420732,cube_z=-0.000
+mixed_10%,9,raw,no_motion,nan,non-finite grasp point
+mixed_10%,9,safe,success,1.593763567986461,cube_z=0.286
+mixed_10%,10,raw,no_motion,nan,non-finite grasp point
+mixed_10%,10,safe,success,1.032604354372014,cube_z=0.286
+mixed_10%,11,raw,no_motion,nan,non-finite grasp point
+mixed_10%,11,safe,success,0.7165117618716688,cube_z=0.286
+mixed_10%,12,raw,no_motion,nan,non-finite grasp point
+mixed_10%,12,safe,success,0.3676078011635105,cube_z=0.286
+mixed_10%,13,raw,no_motion,nan,non-finite grasp point
+mixed_10%,13,safe,success,0.36242487558794956,cube_z=0.286
+mixed_10%,14,raw,no_motion,nan,non-finite grasp point
+mixed_10%,14,safe,success,0.11297977599938074,cube_z=0.286
+mixed_10%,15,raw,no_motion,nan,non-finite grasp point
+mixed_10%,15,safe,success,0.43811614621314865,cube_z=0.286
+mixed_10%,16,raw,no_motion,nan,non-finite grasp point
+mixed_10%,16,safe,success,1.098132307754799,cube_z=0.286
+mixed_10%,17,raw,no_motion,nan,non-finite grasp point
+mixed_10%,17,safe,success,1.2755837903767606,cube_z=0.286
+mixed_10%,18,raw,no_motion,nan,non-finite grasp point
+mixed_10%,18,safe,success,2.1102981460749186,cube_z=0.287
+mixed_10%,19,raw,no_motion,nan,non-finite grasp point
+mixed_10%,19,safe,success,0.9587083420147439,cube_z=0.286
+mixed_25%,0,raw,no_motion,nan,non-finite grasp point
+mixed_25%,0,safe,no_motion,nan,"frame rejected: 10.94% invalid depth pixels (NaN 10.94%, Inf 0.00%, zero 0.0"
+mixed_25%,1,raw,no_motion,nan,non-finite grasp point
+mixed_25%,1,safe,no_motion,nan,"frame rejected: 10.95% invalid depth pixels (NaN 10.95%, Inf 0.00%, zero 0.0"
+mixed_25%,2,raw,no_motion,nan,non-finite grasp point
+mixed_25%,2,safe,no_motion,nan,"frame rejected: 10.96% invalid depth pixels (NaN 10.96%, Inf 0.00%, zero 0.0"
+mixed_25%,3,raw,no_motion,nan,non-finite grasp point
+mixed_25%,3,safe,no_motion,nan,"frame rejected: 10.95% invalid depth pixels (NaN 10.95%, Inf 0.00%, zero 0.0"
+mixed_25%,4,raw,no_motion,nan,non-finite grasp point
+mixed_25%,4,safe,no_motion,nan,"frame rejected: 10.92% invalid depth pixels (NaN 10.92%, Inf 0.00%, zero 0.0"
+mixed_25%,5,raw,no_motion,nan,non-finite grasp point
+mixed_25%,5,safe,no_motion,nan,"frame rejected: 10.96% invalid depth pixels (NaN 10.96%, Inf 0.00%, zero 0.0"
+mixed_25%,6,raw,no_motion,nan,non-finite grasp point
+mixed_25%,6,safe,no_motion,nan,"frame rejected: 10.92% invalid depth pixels (NaN 10.92%, Inf 0.00%, zero 0.0"
+mixed_25%,7,raw,wrong_motion,85.37990071237252,cube_z=-0.000
+mixed_25%,7,safe,no_motion,nan,"frame rejected: 10.94% invalid depth pixels (NaN 10.94%, Inf 0.00%, zero 0.0"
+mixed_25%,8,raw,no_motion,nan,non-finite grasp point
+mixed_25%,8,safe,no_motion,nan,"frame rejected: 10.95% invalid depth pixels (NaN 10.95%, Inf 0.00%, zero 0.0"
+mixed_25%,9,raw,no_motion,nan,non-finite grasp point
+mixed_25%,9,safe,no_motion,nan,"frame rejected: 10.92% invalid depth pixels (NaN 10.92%, Inf 0.00%, zero 0.0"
+mixed_25%,10,raw,no_motion,nan,non-finite grasp point
+mixed_25%,10,safe,no_motion,nan,"frame rejected: 10.92% invalid depth pixels (NaN 10.92%, Inf 0.00%, zero 0.0"
+mixed_25%,11,raw,wrong_motion,78.79076608724353,cube_z=-0.000
+mixed_25%,11,safe,no_motion,nan,"frame rejected: 10.97% invalid depth pixels (NaN 10.97%, Inf 0.00%, zero 0.0"
+mixed_25%,12,raw,no_motion,nan,non-finite grasp point
+mixed_25%,12,safe,no_motion,nan,"frame rejected: 10.93% invalid depth pixels (NaN 10.93%, Inf 0.00%, zero 0.0"
+mixed_25%,13,raw,wrong_motion,78.04458253603,cube_z=-0.000
+mixed_25%,13,safe,no_motion,nan,"frame rejected: 10.98% invalid depth pixels (NaN 10.98%, Inf 0.00%, zero 0.0"
+mixed_25%,14,raw,no_motion,nan,non-finite grasp point
+mixed_25%,14,safe,no_motion,nan,"frame rejected: 10.96% invalid depth pixels (NaN 10.96%, Inf 0.00%, zero 0.0"
+mixed_25%,15,raw,no_motion,nan,non-finite grasp point
+mixed_25%,15,safe,no_motion,nan,"frame rejected: 10.98% invalid depth pixels (NaN 10.98%, Inf 0.00%, zero 0.0"
+mixed_25%,16,raw,wrong_motion,79.16999953033762,cube_z=-0.000
+mixed_25%,16,safe,no_motion,nan,"frame rejected: 10.91% invalid depth pixels (NaN 10.91%, Inf 0.00%, zero 0.0"
+mixed_25%,17,raw,no_motion,nan,non-finite grasp point
+mixed_25%,17,safe,no_motion,nan,"frame rejected: 10.93% invalid depth pixels (NaN 10.93%, Inf 0.00%, zero 0.0"
+mixed_25%,18,raw,wrong_motion,76.28601594985304,cube_z=-0.000
+mixed_25%,18,safe,no_motion,nan,"frame rejected: 10.95% invalid depth pixels (NaN 10.95%, Inf 0.00%, zero 0.0"
+mixed_25%,19,raw,no_motion,nan,non-finite grasp point
+mixed_25%,19,safe,no_motion,nan,"frame rejected: 10.96% invalid depth pixels (NaN 10.96%, Inf 0.00%, zero 0.0"

@@ -1,0 +1,81 @@
+condition,trial,pipeline,outcome,xy_error_cm,note
+mixed_10%,0,raw,no_motion,nan,non-finite grasp point
+mixed_10%,0,safe,no_motion,nan,"frame rejected: 4.75% invalid depth pixels (NaN 4.75%, Inf 0.00%, zero 0.00%"
+mixed_10%,1,raw,no_motion,nan,non-finite grasp point
+mixed_10%,1,safe,no_motion,nan,"frame rejected: 4.76% invalid depth pixels (NaN 4.76%, Inf 0.00%, zero 0.00%"
+mixed_10%,2,raw,wrong_motion,83.09570154101728,cube_z=-0.000
+mixed_10%,2,safe,no_motion,nan,"frame rejected: 4.77% invalid depth pixels (NaN 4.77%, Inf 0.00%, zero 0.00%"
+mixed_10%,3,raw,no_motion,nan,non-finite grasp point
+mixed_10%,3,safe,no_motion,nan,"frame rejected: 4.75% invalid depth pixels (NaN 4.75%, Inf 0.00%, zero 0.00%"
+mixed_10%,4,raw,no_motion,nan,non-finite grasp point
+mixed_10%,4,safe,no_motion,nan,"frame rejected: 4.76% invalid depth pixels (NaN 4.76%, Inf 0.00%, zero 0.00%"
+mixed_10%,5,raw,no_motion,nan,non-finite grasp point
+mixed_10%,5,safe,no_motion,nan,"frame rejected: 4.76% invalid depth pixels (NaN 4.76%, Inf 0.00%, zero 0.00%"
+mixed_10%,6,raw,no_motion,nan,non-finite grasp point
+mixed_10%,6,safe,no_motion,nan,"frame rejected: 4.75% invalid depth pixels (NaN 4.75%, Inf 0.00%, zero 0.00%"
+mixed_10%,7,raw,no_motion,nan,non-finite grasp point
+mixed_10%,7,safe,no_motion,nan,"frame rejected: 4.77% invalid depth pixels (NaN 4.77%, Inf 0.00%, zero 0.00%"
+mixed_10%,8,raw,no_motion,nan,non-finite grasp point
+mixed_10%,8,safe,no_motion,nan,"frame rejected: 4.74% invalid depth pixels (NaN 4.74%, Inf 0.00%, zero 0.00%"
+mixed_10%,9,raw,no_motion,nan,non-finite grasp point
+mixed_10%,9,safe,no_motion,nan,"frame rejected: 4.75% invalid depth pixels (NaN 4.75%, Inf 0.00%, zero 0.00%"
+mixed_10%,10,raw,no_motion,nan,non-finite grasp point
+mixed_10%,10,safe,no_motion,nan,"frame rejected: 4.76% invalid depth pixels (NaN 4.76%, Inf 0.00%, zero 0.00%"
+mixed_10%,11,raw,no_motion,nan,non-finite grasp point
+mixed_10%,11,safe,no_motion,nan,"frame rejected: 4.76% invalid depth pixels (NaN 4.76%, Inf 0.00%, zero 0.00%"
+mixed_10%,12,raw,no_motion,nan,non-finite grasp point
+mixed_10%,12,safe,no_motion,nan,"frame rejected: 4.75% invalid depth pixels (NaN 4.75%, Inf 0.00%, zero 0.00%"
+mixed_10%,13,raw,no_motion,nan,non-finite grasp point
+mixed_10%,13,safe,no_motion,nan,"frame rejected: 4.76% invalid depth pixels (NaN 4.76%, Inf 0.00%, zero 0.00%"
+mixed_10%,14,raw,no_motion,nan,non-finite grasp point
+mixed_10%,14,safe,no_motion,nan,"frame rejected: 4.74% invalid depth pixels (NaN 4.74%, Inf 0.00%, zero 0.00%"
+mixed_10%,15,raw,no_motion,nan,non-finite grasp point
+mixed_10%,15,safe,no_motion,nan,"frame rejected: 4.76% invalid depth pixels (NaN 4.76%, Inf 0.00%, zero 0.00%"
+mixed_10%,16,raw,no_motion,nan,non-finite grasp point
+mixed_10%,16,safe,no_motion,nan,"frame rejected: 4.75% invalid depth pixels (NaN 4.75%, Inf 0.00%, zero 0.00%"
+mixed_10%,17,raw,no_motion,nan,non-finite grasp point
+mixed_10%,17,safe,no_motion,nan,"frame rejected: 4.76% invalid depth pixels (NaN 4.76%, Inf 0.00%, zero 0.00%"
+mixed_10%,18,raw,no_motion,nan,non-finite grasp point
+mixed_10%,18,safe,no_motion,nan,"frame rejected: 4.75% invalid depth pixels (NaN 4.75%, Inf 0.00%, zero 0.00%"
+mixed_10%,19,raw,no_motion,nan,non-finite grasp point
+mixed_10%,19,safe,no_motion,nan,"frame rejected: 4.76% invalid depth pixels (NaN 4.76%, Inf 0.00%, zero 0.00%"
+mixed_25%,0,raw,no_motion,nan,non-finite grasp point
+mixed_25%,0,safe,no_motion,nan,"frame rejected: 10.94% invalid depth pixels (NaN 10.94%, Inf 0.00%, zero 0.0"
+mixed_25%,1,raw,no_motion,nan,non-finite grasp point
+mixed_25%,1,safe,no_motion,nan,"frame rejected: 10.95% invalid depth pixels (NaN 10.95%, Inf 0.00%, zero 0.0"
+mixed_25%,2,raw,no_motion,nan,non-finite grasp point
+mixed_25%,2,safe,no_motion,nan,"frame rejected: 10.96% invalid depth pixels (NaN 10.96%, Inf 0.00%, zero 0.0"
+mixed_25%,3,raw,no_motion,nan,non-finite grasp point
+mixed_25%,3,safe,no_motion,nan,"frame rejected: 10.95% invalid depth pixels (NaN 10.95%, Inf 0.00%, zero 0.0"
+mixed_25%,4,raw,no_motion,nan,non-finite grasp point
+mixed_25%,4,safe,no_motion,nan,"frame rejected: 10.92% invalid depth pixels (NaN 10.92%, Inf 0.00%, zero 0.0"
+mixed_25%,5,raw,no_motion,nan,non-finite grasp point
+mixed_25%,5,safe,no_motion,nan,"frame rejected: 10.96% invalid depth pixels (NaN 10.96%, Inf 0.00%, zero 0.0"
+mixed_25%,6,raw,no_motion,nan,non-finite grasp point
+mixed_25%,6,safe,no_motion,nan,"frame rejected: 10.92% invalid depth pixels (NaN 10.92%, Inf 0.00%, zero 0.0"
+mixed_25%,7,raw,wrong_motion,85.37990071237252,cube_z=-0.000
+mixed_25%,7,safe,no_motion,nan,"frame rejected: 10.94% invalid depth pixels (NaN 10.94%, Inf 0.00%, zero 0.0"
+mixed_25%,8,raw,no_motion,nan,non-finite grasp point
+mixed_25%,8,safe,no_motion,nan,"frame rejected: 10.95% invalid depth pixels (NaN 10.95%, Inf 0.00%, zero 0.0"
+mixed_25%,9,raw,no_motion,nan,non-finite grasp point
+mixed_25%,9,safe,no_motion,nan,"frame rejected: 10.92% invalid depth pixels (NaN 10.92%, Inf 0.00%, zero 0.0"
+mixed_25%,10,raw,no_motion,nan,non-finite grasp point
+mixed_25%,10,safe,no_motion,nan,"frame rejected: 10.92% invalid depth pixels (NaN 10.92%, Inf 0.00%, zero 0.0"
+mixed_25%,11,raw,wrong_motion,78.79076608724353,cube_z=-0.000
+mixed_25%,11,safe,no_motion,nan,"frame rejected: 10.97% invalid depth pixels (NaN 10.97%, Inf 0.00%, zero 0.0"
+mixed_25%,12,raw,no_motion,nan,non-finite grasp point
+mixed_25%,12,safe,no_motion,nan,"frame rejected: 10.93% invalid depth pixels (NaN 10.93%, Inf 0.00%, zero 0.0"
+mixed_25%,13,raw,wrong_motion,78.04458253603,cube_z=-0.000
+mixed_25%,13,safe,no_motion,nan,"frame rejected: 10.98% invalid depth pixels (NaN 10.98%, Inf 0.00%, zero 0.0"
+mixed_25%,14,raw,no_motion,nan,non-finite grasp point
+mixed_25%,14,safe,no_motion,nan,"frame rejected: 10.96% invalid depth pixels (NaN 10.96%, Inf 0.00%, zero 0.0"
+mixed_25%,15,raw,no_motion,nan,non-finite grasp point
+mixed_25%,15,safe,no_motion,nan,"frame rejected: 10.98% invalid depth pixels (NaN 10.98%, Inf 0.00%, zero 0.0"
+mixed_25%,16,raw,wrong_motion,79.16999953033762,cube_z=-0.000
+mixed_25%,16,safe,no_motion,nan,"frame rejected: 10.91% invalid depth pixels (NaN 10.91%, Inf 0.00%, zero 0.0"
+mixed_25%,17,raw,no_motion,nan,non-finite grasp point
+mixed_25%,17,safe,no_motion,nan,"frame rejected: 10.93% invalid depth pixels (NaN 10.93%, Inf 0.00%, zero 0.0"
+mixed_25%,18,raw,wrong_motion,76.28601594985304,cube_z=-0.000
+mixed_25%,18,safe,no_motion,nan,"frame rejected: 10.95% invalid depth pixels (NaN 10.95%, Inf 0.00%, zero 0.0"
+mixed_25%,19,raw,no_motion,nan,non-finite grasp point
+mixed_25%,19,safe,no_motion,nan,"frame rejected: 10.96% invalid depth pixels (NaN 10.96%, Inf 0.00%, zero 0.0"

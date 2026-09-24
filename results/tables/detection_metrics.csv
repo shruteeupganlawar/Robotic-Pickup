@@ -1,0 +1,13 @@
+corruption,TP,TN,FP,FN,precision,recall,f1
+nan,80,16,0,0,1.0,1.0,1.0
+inf,80,16,0,0,1.0,1.0,1.0
+zero_region,80,16,0,0,1.0,1.0,1.0
+out_of_range,80,16,0,0,1.0,1.0,1.0
+noise,80,16,0,0,1.0,1.0,1.0
+depth_bias,0,16,0,80,nan,0.0,nan
+constant_depth,16,16,0,0,1.0,1.0,1.0
+flatten_rgb,16,16,0,0,1.0,1.0,1.0
+flatten_depth,16,16,0,0,1.0,1.0,1.0
+truncate_rgb,80,16,0,0,1.0,1.0,1.0
+truncate_depth,80,16,0,0,1.0,1.0,1.0
+mixed,80,16,0,0,1.0,1.0,1.0

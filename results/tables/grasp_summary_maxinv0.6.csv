@@ -1,0 +1,7 @@
+condition,pipeline,n,success_pct,ci_low,ci_high,wrong_motion_pct,no_motion_pct,success_given_executed_pct
+nan_25%,raw,20,0.0,0.0,16.113012549493323,0.0,100.0,nan
+nan_25%,safe,20,100.0,83.88698745050667,100.0,0.0,0.0,100.0
+nan_50%,raw,20,0.0,0.0,16.113012549493323,0.0,100.0,nan
+nan_50%,safe,20,100.0,83.88698745050667,100.0,0.0,0.0,100.0
+dropout_25%_on_cube,raw,20,0.0,0.0,16.113012549493323,100.0,0.0,0.0
+dropout_25%_on_cube,safe,20,0.0,0.0,16.113012549493323,0.0,100.0,nan

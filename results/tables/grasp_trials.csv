@@ -1,0 +1,441 @@
+condition,trial,pipeline,outcome,xy_error_cm,note
+clean,0,raw,success,0.38771572209937644,cube_z=0.286
+clean,0,safe,success,0.4674145043197911,cube_z=0.286
+clean,1,raw,success,0.38372676980234766,cube_z=0.285
+clean,1,safe,success,0.486959246425439,cube_z=0.286
+clean,2,raw,success,0.3918056477139046,cube_z=0.286
+clean,2,safe,success,0.42943734497355734,cube_z=0.286
+clean,3,raw,success,0.38022409012283004,cube_z=0.286
+clean,3,safe,success,0.4583890138463449,cube_z=0.286
+clean,4,raw,success,0.38849577936104895,cube_z=0.286
+clean,4,safe,success,0.47200149102457917,cube_z=0.286
+clean,5,raw,success,0.36365129767635934,cube_z=0.286
+clean,5,safe,success,0.4647459230486652,cube_z=0.286
+clean,6,raw,success,0.3573057432503351,cube_z=0.286
+clean,6,safe,success,0.42328268034718886,cube_z=0.286
+clean,7,raw,success,0.39795909483557923,cube_z=0.286
+clean,7,safe,success,0.506577781693883,cube_z=0.286
+clean,8,raw,success,0.3864740875240802,cube_z=0.285
+clean,8,safe,success,0.44415716169973307,cube_z=0.286
+clean,9,raw,success,0.39780625454867324,cube_z=0.286
+clean,9,safe,success,0.48955558421819245,cube_z=0.286
+clean,10,raw,success,0.3529119098916145,cube_z=0.286
+clean,10,safe,success,0.4088480525502541,cube_z=0.286
+clean,11,raw,success,0.40024329639779127,cube_z=0.286
+clean,11,safe,success,0.4740333273742531,cube_z=0.285
+clean,12,raw,success,0.4033102419869804,cube_z=0.286
+clean,12,safe,success,0.45750607739719246,cube_z=0.286
+clean,13,raw,success,0.3615944469888901,cube_z=0.286
+clean,13,safe,success,0.41082219731203445,cube_z=0.286
+clean,14,raw,success,0.41655940525498075,cube_z=0.286
+clean,14,safe,success,0.5173641804525276,cube_z=0.286
+clean,15,raw,success,0.39749213117391824,cube_z=0.286
+clean,15,safe,success,0.4977150620254181,cube_z=0.286
+clean,16,raw,success,0.3797476341699933,cube_z=0.285
+clean,16,safe,success,0.465659274901285,cube_z=0.286
+clean,17,raw,success,0.3823081919676691,cube_z=0.286
+clean,17,safe,success,0.4602634692103316,cube_z=0.286
+clean,18,raw,success,0.3625488704012997,cube_z=0.286
+clean,18,safe,success,0.44582544043580846,cube_z=0.285
+clean,19,raw,success,0.420346770840262,cube_z=0.286
+clean,19,safe,success,0.5260294604170394,cube_z=0.286
+nan_10%,0,raw,no_motion,nan,non-finite grasp point
+nan_10%,0,safe,success,0.5339375939926555,cube_z=0.286
+nan_10%,1,raw,no_motion,nan,non-finite grasp point
+nan_10%,1,safe,success,0.33106420298707817,cube_z=0.286
+nan_10%,2,raw,no_motion,nan,non-finite grasp point
+nan_10%,2,safe,success,0.42876175061235533,cube_z=0.286
+nan_10%,3,raw,no_motion,nan,non-finite grasp point
+nan_10%,3,safe,success,0.4644810776891578,cube_z=0.286
+nan_10%,4,raw,no_motion,nan,non-finite grasp point
+nan_10%,4,safe,success,0.503075073403985,cube_z=0.286
+nan_10%,5,raw,no_motion,nan,non-finite grasp point
+nan_10%,5,safe,success,0.47208843385473204,cube_z=0.286
+nan_10%,6,raw,no_motion,nan,non-finite grasp point
+nan_10%,6,safe,success,0.4579017381177167,cube_z=0.286
+nan_10%,7,raw,no_motion,nan,non-finite grasp point
+nan_10%,7,safe,success,0.28086147376564863,cube_z=0.286
+nan_10%,8,raw,no_motion,nan,non-finite grasp point
+nan_10%,8,safe,success,0.4317091102686062,cube_z=0.286
+nan_10%,9,raw,no_motion,nan,non-finite grasp point
+nan_10%,9,safe,success,0.5356073420302383,cube_z=0.286
+nan_10%,10,raw,no_motion,nan,non-finite grasp point
+nan_10%,10,safe,success,0.5335920342602269,cube_z=0.286
+nan_10%,11,raw,no_motion,nan,non-finite grasp point
+nan_10%,11,safe,success,0.5476294807114966,cube_z=0.286
+nan_10%,12,raw,no_motion,nan,non-finite grasp point
+nan_10%,12,safe,success,0.554319258552286,cube_z=0.287
+nan_10%,13,raw,no_motion,nan,non-finite grasp point
+nan_10%,13,safe,success,0.4447010053834639,cube_z=0.285
+nan_10%,14,raw,no_motion,nan,non-finite grasp point
+nan_10%,14,safe,success,0.5900508595679265,cube_z=0.286
+nan_10%,15,raw,no_motion,nan,non-finite grasp point
+nan_10%,15,safe,success,0.5203153413804021,cube_z=0.286
+nan_10%,16,raw,no_motion,nan,non-finite grasp point
+nan_10%,16,safe,success,0.5085151358700629,cube_z=0.286
+nan_10%,17,raw,no_motion,nan,non-finite grasp point
+nan_10%,17,safe,success,0.5493582386510962,cube_z=0.286
+nan_10%,18,raw,no_motion,nan,non-finite grasp point
+nan_10%,18,safe,success,0.5575568046227388,cube_z=0.286
+nan_10%,19,raw,no_motion,nan,non-finite grasp point
+nan_10%,19,safe,success,0.6857534600187492,cube_z=0.286
+nan_25%,0,raw,no_motion,nan,non-finite grasp point
+nan_25%,0,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,1,raw,no_motion,nan,non-finite grasp point
+nan_25%,1,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,2,raw,no_motion,nan,non-finite grasp point
+nan_25%,2,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,3,raw,no_motion,nan,non-finite grasp point
+nan_25%,3,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,4,raw,no_motion,nan,non-finite grasp point
+nan_25%,4,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,5,raw,no_motion,nan,non-finite grasp point
+nan_25%,5,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,6,raw,no_motion,nan,non-finite grasp point
+nan_25%,6,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,7,raw,no_motion,nan,non-finite grasp point
+nan_25%,7,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,8,raw,no_motion,nan,non-finite grasp point
+nan_25%,8,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,9,raw,no_motion,nan,non-finite grasp point
+nan_25%,9,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,10,raw,no_motion,nan,non-finite grasp point
+nan_25%,10,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,11,raw,no_motion,nan,non-finite grasp point
+nan_25%,11,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,12,raw,no_motion,nan,non-finite grasp point
+nan_25%,12,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,13,raw,no_motion,nan,non-finite grasp point
+nan_25%,13,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,14,raw,no_motion,nan,non-finite grasp point
+nan_25%,14,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,15,raw,no_motion,nan,non-finite grasp point
+nan_25%,15,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,16,raw,no_motion,nan,non-finite grasp point
+nan_25%,16,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,17,raw,no_motion,nan,non-finite grasp point
+nan_25%,17,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,18,raw,no_motion,nan,non-finite grasp point
+nan_25%,18,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_25%,19,raw,no_motion,nan,non-finite grasp point
+nan_25%,19,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 25.00%, Inf 0.00%, zero 0.0"
+nan_50%,0,raw,no_motion,nan,non-finite grasp point
+nan_50%,0,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,1,raw,no_motion,nan,non-finite grasp point
+nan_50%,1,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,2,raw,no_motion,nan,non-finite grasp point
+nan_50%,2,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,3,raw,no_motion,nan,non-finite grasp point
+nan_50%,3,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,4,raw,no_motion,nan,non-finite grasp point
+nan_50%,4,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,5,raw,no_motion,nan,non-finite grasp point
+nan_50%,5,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,6,raw,no_motion,nan,non-finite grasp point
+nan_50%,6,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,7,raw,no_motion,nan,non-finite grasp point
+nan_50%,7,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,8,raw,no_motion,nan,non-finite grasp point
+nan_50%,8,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,9,raw,no_motion,nan,non-finite grasp point
+nan_50%,9,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,10,raw,no_motion,nan,non-finite grasp point
+nan_50%,10,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,11,raw,no_motion,nan,non-finite grasp point
+nan_50%,11,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,12,raw,no_motion,nan,non-finite grasp point
+nan_50%,12,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,13,raw,no_motion,nan,non-finite grasp point
+nan_50%,13,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,14,raw,no_motion,nan,non-finite grasp point
+nan_50%,14,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,15,raw,no_motion,nan,non-finite grasp point
+nan_50%,15,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,16,raw,no_motion,nan,non-finite grasp point
+nan_50%,16,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,17,raw,no_motion,nan,non-finite grasp point
+nan_50%,17,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,18,raw,no_motion,nan,non-finite grasp point
+nan_50%,18,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+nan_50%,19,raw,no_motion,nan,non-finite grasp point
+nan_50%,19,safe,no_motion,nan,"frame rejected: 50.00% invalid depth pixels (NaN 50.00%, Inf 0.00%, zero 0.0"
+dropout_5%_on_cube,0,raw,wrong_motion,78.48380137749614,cube_z=-0.000
+dropout_5%_on_cube,0,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,1,raw,wrong_motion,78.35487641915526,cube_z=-0.000
+dropout_5%_on_cube,1,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,2,raw,wrong_motion,83.09862189638105,cube_z=-0.000
+dropout_5%_on_cube,2,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,3,raw,wrong_motion,80.03991521218063,cube_z=-0.000
+dropout_5%_on_cube,3,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,4,raw,wrong_motion,76.57324471164758,cube_z=-0.000
+dropout_5%_on_cube,4,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,5,raw,wrong_motion,81.75241073777332,cube_z=-0.000
+dropout_5%_on_cube,5,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,6,raw,wrong_motion,79.74962088451827,cube_z=-0.000
+dropout_5%_on_cube,6,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,7,raw,wrong_motion,85.3843858025961,cube_z=-0.000
+dropout_5%_on_cube,7,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,8,raw,wrong_motion,80.45087182766602,cube_z=-0.000
+dropout_5%_on_cube,8,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,9,raw,wrong_motion,82.91123238864859,cube_z=-0.000
+dropout_5%_on_cube,9,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,10,raw,wrong_motion,79.09943315178492,cube_z=-0.000
+dropout_5%_on_cube,10,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,11,raw,wrong_motion,78.79927844628843,cube_z=-0.000
+dropout_5%_on_cube,11,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,12,raw,wrong_motion,81.91725675603644,cube_z=-0.000
+dropout_5%_on_cube,12,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,13,raw,wrong_motion,78.05251640204564,cube_z=-0.000
+dropout_5%_on_cube,13,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,14,raw,wrong_motion,78.46707416662781,cube_z=-0.000
+dropout_5%_on_cube,14,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,15,raw,wrong_motion,78.7016622020347,cube_z=-0.000
+dropout_5%_on_cube,15,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,16,raw,wrong_motion,79.17752666875155,cube_z=-0.000
+dropout_5%_on_cube,16,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,17,raw,wrong_motion,83.69838639225836,cube_z=-0.000
+dropout_5%_on_cube,17,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,18,raw,wrong_motion,76.29345892846722,cube_z=-0.000
+dropout_5%_on_cube,18,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_5%_on_cube,19,raw,wrong_motion,83.66583201251404,cube_z=-0.000
+dropout_5%_on_cube,19,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,0,raw,wrong_motion,78.48380137749614,cube_z=-0.000
+dropout_10%_on_cube,0,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,1,raw,wrong_motion,78.35487641915526,cube_z=-0.000
+dropout_10%_on_cube,1,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,2,raw,wrong_motion,83.09862189638105,cube_z=-0.000
+dropout_10%_on_cube,2,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,3,raw,wrong_motion,80.03991521218063,cube_z=-0.000
+dropout_10%_on_cube,3,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,4,raw,wrong_motion,76.57324471164758,cube_z=-0.000
+dropout_10%_on_cube,4,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,5,raw,wrong_motion,81.75241073777332,cube_z=-0.000
+dropout_10%_on_cube,5,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,6,raw,wrong_motion,79.74962088451827,cube_z=-0.000
+dropout_10%_on_cube,6,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,7,raw,wrong_motion,85.3843858025961,cube_z=-0.000
+dropout_10%_on_cube,7,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,8,raw,wrong_motion,80.45087182766602,cube_z=-0.000
+dropout_10%_on_cube,8,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,9,raw,wrong_motion,82.91123238864859,cube_z=-0.000
+dropout_10%_on_cube,9,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,10,raw,wrong_motion,79.09943315178492,cube_z=-0.000
+dropout_10%_on_cube,10,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,11,raw,wrong_motion,78.79927844628843,cube_z=-0.000
+dropout_10%_on_cube,11,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,12,raw,wrong_motion,81.91725675603644,cube_z=-0.000
+dropout_10%_on_cube,12,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,13,raw,wrong_motion,78.05251640204564,cube_z=-0.000
+dropout_10%_on_cube,13,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,14,raw,wrong_motion,78.46707416662781,cube_z=-0.000
+dropout_10%_on_cube,14,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,15,raw,wrong_motion,78.7016622020347,cube_z=-0.000
+dropout_10%_on_cube,15,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,16,raw,wrong_motion,79.17752666875155,cube_z=-0.000
+dropout_10%_on_cube,16,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,17,raw,wrong_motion,83.69838639225836,cube_z=-0.000
+dropout_10%_on_cube,17,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,18,raw,wrong_motion,76.29345892846722,cube_z=-0.000
+dropout_10%_on_cube,18,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_10%_on_cube,19,raw,wrong_motion,83.66583201251404,cube_z=-0.000
+dropout_10%_on_cube,19,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,0,raw,wrong_motion,78.48380137749614,cube_z=-0.000
+dropout_25%_on_cube,0,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,1,raw,wrong_motion,78.35487641915526,cube_z=-0.000
+dropout_25%_on_cube,1,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,2,raw,wrong_motion,83.09862189638105,cube_z=-0.000
+dropout_25%_on_cube,2,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,3,raw,wrong_motion,80.03991521218063,cube_z=-0.000
+dropout_25%_on_cube,3,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,4,raw,wrong_motion,76.57324471164758,cube_z=-0.000
+dropout_25%_on_cube,4,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,5,raw,wrong_motion,81.75241073777332,cube_z=-0.000
+dropout_25%_on_cube,5,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,6,raw,wrong_motion,79.74962088451827,cube_z=-0.000
+dropout_25%_on_cube,6,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,7,raw,wrong_motion,85.3843858025961,cube_z=-0.000
+dropout_25%_on_cube,7,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,8,raw,wrong_motion,80.45087182766602,cube_z=-0.000
+dropout_25%_on_cube,8,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,9,raw,wrong_motion,82.91123238864859,cube_z=-0.000
+dropout_25%_on_cube,9,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,10,raw,wrong_motion,79.09943315178492,cube_z=-0.000
+dropout_25%_on_cube,10,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,11,raw,wrong_motion,78.79927844628843,cube_z=-0.000
+dropout_25%_on_cube,11,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,12,raw,wrong_motion,81.91725675603644,cube_z=-0.000
+dropout_25%_on_cube,12,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,13,raw,wrong_motion,78.05251640204564,cube_z=-0.000
+dropout_25%_on_cube,13,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,14,raw,wrong_motion,78.46707416662781,cube_z=-0.000
+dropout_25%_on_cube,14,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,15,raw,wrong_motion,78.7016622020347,cube_z=-0.000
+dropout_25%_on_cube,15,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,16,raw,wrong_motion,79.17752666875155,cube_z=-0.000
+dropout_25%_on_cube,16,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,17,raw,wrong_motion,83.69838639225836,cube_z=-0.000
+dropout_25%_on_cube,17,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,18,raw,wrong_motion,76.29345892846722,cube_z=-0.000
+dropout_25%_on_cube,18,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+dropout_25%_on_cube,19,raw,wrong_motion,83.66583201251404,cube_z=-0.000
+dropout_25%_on_cube,19,safe,no_motion,nan,"frame rejected: 25.00% invalid depth pixels (NaN 0.00%, Inf 0.00%, zero 25.0"
+truncated_depth,0,raw,no_motion,nan,crash: ValueError
+truncated_depth,0,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,1,raw,no_motion,nan,crash: ValueError
+truncated_depth,1,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,2,raw,no_motion,nan,crash: ValueError
+truncated_depth,2,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,3,raw,no_motion,nan,crash: ValueError
+truncated_depth,3,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,4,raw,no_motion,nan,crash: ValueError
+truncated_depth,4,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,5,raw,no_motion,nan,crash: ValueError
+truncated_depth,5,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,6,raw,no_motion,nan,crash: ValueError
+truncated_depth,6,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,7,raw,no_motion,nan,crash: ValueError
+truncated_depth,7,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,8,raw,no_motion,nan,crash: ValueError
+truncated_depth,8,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,9,raw,no_motion,nan,crash: ValueError
+truncated_depth,9,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,10,raw,no_motion,nan,crash: ValueError
+truncated_depth,10,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,11,raw,no_motion,nan,crash: ValueError
+truncated_depth,11,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,12,raw,no_motion,nan,crash: ValueError
+truncated_depth,12,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,13,raw,no_motion,nan,crash: ValueError
+truncated_depth,13,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,14,raw,no_motion,nan,crash: ValueError
+truncated_depth,14,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,15,raw,no_motion,nan,crash: ValueError
+truncated_depth,15,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,16,raw,no_motion,nan,crash: ValueError
+truncated_depth,16,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,17,raw,no_motion,nan,crash: ValueError
+truncated_depth,17,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,18,raw,no_motion,nan,crash: ValueError
+truncated_depth,18,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+truncated_depth,19,raw,no_motion,nan,crash: ValueError
+truncated_depth,19,safe,no_motion,nan,"frame rejected: Depth shape (276480,) (size 276480) cannot be mapped to (480"
+mixed_10%,0,raw,no_motion,nan,non-finite grasp point
+mixed_10%,0,safe,success,0.20613528838976056,cube_z=0.286
+mixed_10%,1,raw,no_motion,nan,non-finite grasp point
+mixed_10%,1,safe,success,0.07743443470248694,cube_z=0.286
+mixed_10%,2,raw,wrong_motion,83.09570154101728,cube_z=-0.000
+mixed_10%,2,safe,wrong_motion,83.09860453260704,cube_z=-0.000
+mixed_10%,3,raw,no_motion,nan,non-finite grasp point
+mixed_10%,3,safe,success,0.6343984916278387,cube_z=0.286
+mixed_10%,4,raw,no_motion,nan,non-finite grasp point
+mixed_10%,4,safe,success,0.39591304841903396,cube_z=0.286
+mixed_10%,5,raw,no_motion,nan,non-finite grasp point
+mixed_10%,5,safe,success,0.31863860595580584,cube_z=0.286
+mixed_10%,6,raw,no_motion,nan,non-finite grasp point
+mixed_10%,6,safe,success,0.44976455313046354,cube_z=0.287
+mixed_10%,7,raw,no_motion,nan,non-finite grasp point
+mixed_10%,7,safe,success,0.29331881810330956,cube_z=0.286
+mixed_10%,8,raw,no_motion,nan,non-finite grasp point
+mixed_10%,8,safe,wrong_motion,80.58225349420732,cube_z=-0.000
+mixed_10%,9,raw,no_motion,nan,non-finite grasp point
+mixed_10%,9,safe,success,1.593763567986461,cube_z=0.286
+mixed_10%,10,raw,no_motion,nan,non-finite grasp point
+mixed_10%,10,safe,success,1.032604354372014,cube_z=0.286
+mixed_10%,11,raw,no_motion,nan,non-finite grasp point
+mixed_10%,11,safe,success,0.7165117618716688,cube_z=0.286
+mixed_10%,12,raw,no_motion,nan,non-finite grasp point
+mixed_10%,12,safe,success,0.3676078011635105,cube_z=0.286
+mixed_10%,13,raw,no_motion,nan,non-finite grasp point
+mixed_10%,13,safe,success,0.36242487558794956,cube_z=0.286
+mixed_10%,14,raw,no_motion,nan,non-finite grasp point
+mixed_10%,14,safe,success,0.11297977599938074,cube_z=0.286
+mixed_10%,15,raw,no_motion,nan,non-finite grasp point
+mixed_10%,15,safe,success,0.43811614621314865,cube_z=0.286
+mixed_10%,16,raw,no_motion,nan,non-finite grasp point
+mixed_10%,16,safe,success,1.098132307754799,cube_z=0.286
+mixed_10%,17,raw,no_motion,nan,non-finite grasp point
+mixed_10%,17,safe,success,1.2755837903767606,cube_z=0.286
+mixed_10%,18,raw,no_motion,nan,non-finite grasp point
+mixed_10%,18,safe,success,2.1102981460749186,cube_z=0.287
+mixed_10%,19,raw,no_motion,nan,non-finite grasp point
+mixed_10%,19,safe,success,0.9587083420147439,cube_z=0.286
+mixed_25%,0,raw,no_motion,nan,non-finite grasp point
+mixed_25%,0,safe,success,0.6658740359799896,cube_z=0.286
+mixed_25%,1,raw,no_motion,nan,non-finite grasp point
+mixed_25%,1,safe,success,1.947770482471158,cube_z=0.281
+mixed_25%,2,raw,no_motion,nan,non-finite grasp point
+mixed_25%,2,safe,success,1.8626349650787348,cube_z=0.286
+mixed_25%,3,raw,no_motion,nan,non-finite grasp point
+mixed_25%,3,safe,success,2.4444831551625996,cube_z=0.287
+mixed_25%,4,raw,no_motion,nan,non-finite grasp point
+mixed_25%,4,safe,wrong_motion,3.6078128698207124,cube_z=-0.000
+mixed_25%,5,raw,no_motion,nan,non-finite grasp point
+mixed_25%,5,safe,success,2.4228924484266425,cube_z=0.286
+mixed_25%,6,raw,no_motion,nan,non-finite grasp point
+mixed_25%,6,safe,wrong_motion,79.88390720083267,cube_z=-0.000
+mixed_25%,7,raw,wrong_motion,85.37990071237252,cube_z=-0.000
+mixed_25%,7,safe,wrong_motion,85.38769301539467,cube_z=-0.000
+mixed_25%,8,raw,no_motion,nan,non-finite grasp point
+mixed_25%,8,safe,wrong_motion,1.911757297949534,cube_z=-0.000
+mixed_25%,9,raw,no_motion,nan,non-finite grasp point
+mixed_25%,9,safe,wrong_motion,3.382488844402386,cube_z=-0.000
+mixed_25%,10,raw,no_motion,nan,non-finite grasp point
+mixed_25%,10,safe,success,2.347533539621891,cube_z=0.283
+mixed_25%,11,raw,wrong_motion,78.79076608724353,cube_z=-0.000
+mixed_25%,11,safe,wrong_motion,78.7961292741663,cube_z=-0.000
+mixed_25%,12,raw,no_motion,nan,non-finite grasp point
+mixed_25%,12,safe,wrong_motion,2.793823218140269,cube_z=-0.000
+mixed_25%,13,raw,wrong_motion,78.04458253603,cube_z=-0.000
+mixed_25%,13,safe,wrong_motion,78.0516418902947,cube_z=-0.000
+mixed_25%,14,raw,no_motion,nan,non-finite grasp point
+mixed_25%,14,safe,success,1.8947281242391816,cube_z=0.286
+mixed_25%,15,raw,no_motion,nan,non-finite grasp point
+mixed_25%,15,safe,success,1.3529232186468911,cube_z=0.286
+mixed_25%,16,raw,wrong_motion,79.16999953033762,cube_z=-0.000
+mixed_25%,16,safe,wrong_motion,79.1764021639825,cube_z=-0.000
+mixed_25%,17,raw,no_motion,nan,non-finite grasp point
+mixed_25%,17,safe,wrong_motion,83.82234928115604,cube_z=-0.000
+mixed_25%,18,raw,wrong_motion,76.28601594985304,cube_z=-0.000
+mixed_25%,18,safe,wrong_motion,76.29004261170209,cube_z=-0.000
+mixed_25%,19,raw,no_motion,nan,non-finite grasp point
+mixed_25%,19,safe,wrong_motion,83.84021418402024,cube_z=-0.000
+depth_bias_blind,0,raw,wrong_motion,4.576236896518388,cube_z=-0.000
+depth_bias_blind,0,safe,wrong_motion,4.643220695234272,cube_z=-0.000
+depth_bias_blind,1,raw,wrong_motion,4.552408404526584,cube_z=-0.000
+depth_bias_blind,1,safe,wrong_motion,4.63519132064322,cube_z=-0.000
+depth_bias_blind,2,raw,wrong_motion,4.9430514333139675,cube_z=-0.000
+depth_bias_blind,2,safe,wrong_motion,5.000671601309825,cube_z=-0.000
+depth_bias_blind,3,raw,wrong_motion,4.694560967348823,cube_z=-0.000
+depth_bias_blind,3,safe,wrong_motion,4.788555585761422,cube_z=-0.000
+depth_bias_blind,4,raw,wrong_motion,4.416783066493221,cube_z=-0.000
+depth_bias_blind,4,safe,wrong_motion,4.489299093198365,cube_z=-0.000
+depth_bias_blind,5,raw,wrong_motion,4.848271086629221,cube_z=-0.000
+depth_bias_blind,5,safe,wrong_motion,4.922610667313015,cube_z=-0.000
+depth_bias_blind,6,raw,wrong_motion,4.672423801925165,cube_z=-0.000
+depth_bias_blind,6,safe,wrong_motion,4.702807381276894,cube_z=-0.000
+depth_bias_blind,7,raw,wrong_motion,5.19470499317186,cube_z=-0.000
+depth_bias_blind,7,safe,wrong_motion,5.272700582828962,cube_z=-0.000
+depth_bias_blind,8,raw,wrong_motion,4.724740991946732,cube_z=-0.000
+depth_bias_blind,8,safe,wrong_motion,4.781565934476898,cube_z=-0.000
+depth_bias_blind,9,raw,wrong_motion,4.942693768651001,cube_z=-0.000
+depth_bias_blind,9,safe,wrong_motion,4.986723051628092,cube_z=-0.000
+depth_bias_blind,10,raw,wrong_motion,4.604711298131769,cube_z=-0.000
+depth_bias_blind,10,safe,wrong_motion,4.639169638420447,cube_z=-0.000
+depth_bias_blind,11,raw,wrong_motion,4.63277802053934,cube_z=-0.000
+depth_bias_blind,11,safe,wrong_motion,4.677780118489018,cube_z=-0.000
+depth_bias_blind,12,raw,wrong_motion,4.898948676877916,cube_z=-0.000
+depth_bias_blind,12,safe,wrong_motion,4.953663369671347,cube_z=-0.000
+depth_bias_blind,13,raw,wrong_motion,4.533211676623145,cube_z=-0.000
+depth_bias_blind,13,safe,wrong_motion,4.584974683577618,cube_z=-0.000
+depth_bias_blind,14,raw,wrong_motion,4.5910035650449155,cube_z=-0.000
+depth_bias_blind,14,safe,wrong_motion,4.662978239429296,cube_z=-0.000
+depth_bias_blind,15,raw,wrong_motion,4.598176994801547,cube_z=-0.000
+depth_bias_blind,15,safe,wrong_motion,4.655238720729525,cube_z=-0.000
+depth_bias_blind,16,raw,wrong_motion,4.640023213465711,cube_z=-0.000
+depth_bias_blind,16,safe,wrong_motion,4.712919527808552,cube_z=-0.000
+depth_bias_blind,17,raw,wrong_motion,5.0289814196696945,cube_z=-0.000
+depth_bias_blind,17,safe,wrong_motion,5.104622778104551,cube_z=-0.000
+depth_bias_blind,18,raw,wrong_motion,4.382743327090889,cube_z=-0.000
+depth_bias_blind,18,safe,wrong_motion,4.4463456682138265,cube_z=-0.000
+depth_bias_blind,19,raw,wrong_motion,5.044093778024262,cube_z=-0.000
+depth_bias_blind,19,safe,wrong_motion,5.12745894210483,cube_z=-0.000

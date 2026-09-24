@@ -1,0 +1,121 @@
+condition,trial,pipeline,outcome,xy_error_cm,note
+nan_25%,0,raw,no_motion,nan,non-finite grasp point
+nan_25%,0,safe,success,0.4380534991570288,cube_z=0.286
+nan_25%,1,raw,no_motion,nan,non-finite grasp point
+nan_25%,1,safe,success,0.5298674191281716,cube_z=0.286
+nan_25%,2,raw,no_motion,nan,non-finite grasp point
+nan_25%,2,safe,success,0.5407221986460596,cube_z=0.286
+nan_25%,3,raw,no_motion,nan,non-finite grasp point
+nan_25%,3,safe,success,0.5920190473500506,cube_z=0.286
+nan_25%,4,raw,no_motion,nan,non-finite grasp point
+nan_25%,4,safe,success,0.34035464033279683,cube_z=0.286
+nan_25%,5,raw,no_motion,nan,non-finite grasp point
+nan_25%,5,safe,success,0.4373291343153984,cube_z=0.286
+nan_25%,6,raw,no_motion,nan,non-finite grasp point
+nan_25%,6,safe,success,0.5646503815188825,cube_z=0.287
+nan_25%,7,raw,no_motion,nan,non-finite grasp point
+nan_25%,7,safe,success,0.4800243547119338,cube_z=0.286
+nan_25%,8,raw,no_motion,nan,non-finite grasp point
+nan_25%,8,safe,success,0.44394536077612445,cube_z=0.285
+nan_25%,9,raw,no_motion,nan,non-finite grasp point
+nan_25%,9,safe,success,0.5227590585577683,cube_z=0.286
+nan_25%,10,raw,no_motion,nan,non-finite grasp point
+nan_25%,10,safe,success,0.7276699418541915,cube_z=0.286
+nan_25%,11,raw,no_motion,nan,non-finite grasp point
+nan_25%,11,safe,success,0.4345361757891213,cube_z=0.286
+nan_25%,12,raw,no_motion,nan,non-finite grasp point
+nan_25%,12,safe,success,0.38445977471372594,cube_z=0.286
+nan_25%,13,raw,no_motion,nan,non-finite grasp point
+nan_25%,13,safe,success,0.6986574139335219,cube_z=0.286
+nan_25%,14,raw,no_motion,nan,non-finite grasp point
+nan_25%,14,safe,success,0.4618690715722431,cube_z=0.286
+nan_25%,15,raw,no_motion,nan,non-finite grasp point
+nan_25%,15,safe,success,0.5239938570600172,cube_z=0.286
+nan_25%,16,raw,no_motion,nan,non-finite grasp point
+nan_25%,16,safe,success,0.669611077721037,cube_z=0.286
+nan_25%,17,raw,no_motion,nan,non-finite grasp point
+nan_25%,17,safe,success,0.7427741212878407,cube_z=0.286
+nan_25%,18,raw,no_motion,nan,non-finite grasp point
+nan_25%,18,safe,success,0.5112308757626531,cube_z=0.286
+nan_25%,19,raw,no_motion,nan,non-finite grasp point
+nan_25%,19,safe,success,0.5245177899798132,cube_z=0.286
+nan_50%,0,raw,no_motion,nan,non-finite grasp point
+nan_50%,0,safe,success,0.741516538824603,cube_z=0.286
+nan_50%,1,raw,no_motion,nan,non-finite grasp point
+nan_50%,1,safe,success,0.3405439582366629,cube_z=0.286
+nan_50%,2,raw,no_motion,nan,non-finite grasp point
+nan_50%,2,safe,success,0.4555499612779168,cube_z=0.286
+nan_50%,3,raw,no_motion,nan,non-finite grasp point
+nan_50%,3,safe,success,0.452539473900305,cube_z=0.286
+nan_50%,4,raw,no_motion,nan,non-finite grasp point
+nan_50%,4,safe,success,0.27438814041130266,cube_z=0.286
+nan_50%,5,raw,no_motion,nan,non-finite grasp point
+nan_50%,5,safe,success,0.4463515784930631,cube_z=0.286
+nan_50%,6,raw,no_motion,nan,non-finite grasp point
+nan_50%,6,safe,success,0.724489946997014,cube_z=0.286
+nan_50%,7,raw,no_motion,nan,non-finite grasp point
+nan_50%,7,safe,success,0.8504166578652352,cube_z=0.287
+nan_50%,8,raw,no_motion,nan,non-finite grasp point
+nan_50%,8,safe,success,0.4037530918411032,cube_z=0.286
+nan_50%,9,raw,no_motion,nan,non-finite grasp point
+nan_50%,9,safe,success,0.4649437707306655,cube_z=0.286
+nan_50%,10,raw,no_motion,nan,non-finite grasp point
+nan_50%,10,safe,success,0.7975725910220697,cube_z=0.286
+nan_50%,11,raw,no_motion,nan,non-finite grasp point
+nan_50%,11,safe,success,0.6248496540541192,cube_z=0.286
+nan_50%,12,raw,no_motion,nan,non-finite grasp point
+nan_50%,12,safe,success,0.6631979092975723,cube_z=0.287
+nan_50%,13,raw,no_motion,nan,non-finite grasp point
+nan_50%,13,safe,success,0.6390194787554542,cube_z=0.286
+nan_50%,14,raw,no_motion,nan,non-finite grasp point
+nan_50%,14,safe,success,0.47334317269065623,cube_z=0.286
+nan_50%,15,raw,no_motion,nan,non-finite grasp point
+nan_50%,15,safe,success,0.5416585695149025,cube_z=0.286
+nan_50%,16,raw,no_motion,nan,non-finite grasp point
+nan_50%,16,safe,success,0.5797768178000267,cube_z=0.286
+nan_50%,17,raw,no_motion,nan,non-finite grasp point
+nan_50%,17,safe,success,0.6887037674845295,cube_z=0.287
+nan_50%,18,raw,no_motion,nan,non-finite grasp point
+nan_50%,18,safe,success,0.6565562943817411,cube_z=0.286
+nan_50%,19,raw,no_motion,nan,non-finite grasp point
+nan_50%,19,safe,success,0.5553152485836704,cube_z=0.286
+dropout_25%_on_cube,0,raw,wrong_motion,78.48380137749614,cube_z=-0.000
+dropout_25%_on_cube,0,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,1,raw,wrong_motion,78.35487641915526,cube_z=-0.000
+dropout_25%_on_cube,1,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,2,raw,wrong_motion,83.09862189638105,cube_z=-0.000
+dropout_25%_on_cube,2,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,3,raw,wrong_motion,80.03991521218063,cube_z=-0.000
+dropout_25%_on_cube,3,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,4,raw,wrong_motion,76.57324471164758,cube_z=-0.000
+dropout_25%_on_cube,4,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,5,raw,wrong_motion,81.75241073777332,cube_z=-0.000
+dropout_25%_on_cube,5,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,6,raw,wrong_motion,79.74962088451827,cube_z=-0.000
+dropout_25%_on_cube,6,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,7,raw,wrong_motion,85.3843858025961,cube_z=-0.000
+dropout_25%_on_cube,7,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,8,raw,wrong_motion,80.45087182766602,cube_z=-0.000
+dropout_25%_on_cube,8,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,9,raw,wrong_motion,82.91123238864859,cube_z=-0.000
+dropout_25%_on_cube,9,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,10,raw,wrong_motion,79.09943315178492,cube_z=-0.000
+dropout_25%_on_cube,10,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,11,raw,wrong_motion,78.79927844628843,cube_z=-0.000
+dropout_25%_on_cube,11,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,12,raw,wrong_motion,81.91725675603644,cube_z=-0.000
+dropout_25%_on_cube,12,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,13,raw,wrong_motion,78.05251640204564,cube_z=-0.000
+dropout_25%_on_cube,13,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,14,raw,wrong_motion,78.46707416662781,cube_z=-0.000
+dropout_25%_on_cube,14,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,15,raw,wrong_motion,78.7016622020347,cube_z=-0.000
+dropout_25%_on_cube,15,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,16,raw,wrong_motion,79.17752666875155,cube_z=-0.000
+dropout_25%_on_cube,16,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,17,raw,wrong_motion,83.69838639225836,cube_z=-0.000
+dropout_25%_on_cube,17,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,18,raw,wrong_motion,76.29345892846722,cube_z=-0.000
+dropout_25%_on_cube,18,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
+dropout_25%_on_cube,19,raw,wrong_motion,83.66583201251404,cube_z=-0.000
+dropout_25%_on_cube,19,safe,no_motion,nan,target rejected: depth confidence 0.00 < 0.50
